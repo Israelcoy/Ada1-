@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: ee1e5e27c6a839748b5bf77d1bc32b48
+timeCreated: 1505959890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Braid - Monstar_0
+    21300002: PC Computer - Braid - Monstar_1
+    21300004: PC Computer - Braid - Monstar_2
+    21300006: PC Computer - Braid - Monstar_3
+    21300008: PC Computer - Braid - Monstar_4
+    21300010: PC Computer - Braid - Monstar_5
+    21300012: PC Computer - Braid - Monstar_6
+    21300014: PC Computer - Braid - Monstar_7
+    21300016: PC Computer - Braid - Monstar_8
+    21300018: PC Computer - Braid - Monstar_9
+    21300020: PC Computer - Braid - Monstar_10
+    21300022: PC Computer - Braid - Monstar_11
+    21300024: PC Computer - Braid - Monstar_12
+    21300026: PC Computer - Braid - Monstar_13
+    21300028: PC Computer - Braid - Monstar_14
+    21300030: PC Computer - Braid - Monstar_15
+    21300032: PC Computer - Braid - Monstar_16
+    21300034: PC Computer - Braid - Monstar_17
+    21300036: PC Computer - Braid - Monstar_18
+    21300038: PC Computer - Braid - Monstar_19
+    21300040: PC Computer - Braid - Monstar_20
+    21300042: PC Computer - Braid - Monstar_21
+    21300044: PC Computer - Braid - Monstar_22
+    21300046: PC Computer - Braid - Monstar_23
+    21300048: PC Computer - Braid - Monstar_24
+    21300050: PC Computer - Braid - Monstar_25
+    21300052: PC Computer - Braid - Monstar_26
+    21300054: PC Computer - Braid - Monstar_27
+    21300056: PC Computer - Braid - Monstar_28
+    21300058: PC Computer - Braid - Monstar_29
+    21300060: PC Computer - Braid - Monstar_30
+    21300062: PC Computer - Braid - Monstar_31
+    21300064: PC Computer - Braid - Monstar_32
+    21300066: PC Computer - Braid - Monstar_33
+    21300068: PC Computer - Braid - Monstar_34
+    21300070: PC Computer - Braid - Monstar_35
+    21300072: PC Computer - Braid - Monstar_36
+    21300074: PC Computer - Braid - Monstar_37
+    21300076: PC Computer - Braid - Monstar_38
+    21300078: PC Computer - Braid - Monstar_39
+    21300080: PC Computer - Braid - Monstar_40
+    21300082: PC Computer - Braid - Monstar_41
+    21300084: PC Computer - Braid - Monstar_42
+    21300086: PC Computer - Braid - Monstar_43
+    21300088: PC Computer - Braid - Monstar_44
+    21300090: PC Computer - Braid - Monstar_45
+    21300092: PC Computer - Braid - Monstar_46
+    21300094: PC Computer - Braid - Monstar_47
+    21300096: PC Computer - Braid - Monstar_48
+    21300098: PC Computer - Braid - Monstar_49
+    21300100: PC Computer - Braid - Monstar_50
+    21300102: PC Computer - Braid - Monstar_51
+    21300104: PC Computer - Braid - Monstar_52
+    21300106: PC Computer - Braid - Monstar_53
+    21300108: PC Computer - Braid - Monstar_54
+    21300110: PC Computer - Braid - Monstar_55
+    21300112: PC Computer - Braid - Monstar_56
+    21300114: PC Computer - Braid - Monstar_57
+    21300116: PC Computer - Braid - Monstar_58
+    21300118: PC Computer - Braid - Monstar_59
+    21300120: PC Computer - Braid - Monstar_60
+    21300122: PC Computer - Braid - Monstar_61
+    21300124: PC Computer - Braid - Monstar_62
+    21300126: PC Computer - Braid - Monstar_63
+    21300128: PC Computer - Braid - Monstar_64
+    21300130: PC Computer - Braid - Monstar_65
+    21300132: PC Computer - Braid - Monstar_66
+    21300134: PC Computer - Braid - Monstar_67
+    21300136: PC Computer - Braid - Monstar_68
+    21300138: PC Computer - Braid - Monstar_69
+    21300140: PC Computer - Braid - Monstar_70
+    21300142: PC Computer - Braid - Monstar_71
+    21300144: PC Computer - Braid - Monstar_72
+    21300146: PC Computer - Braid - Monstar_73
+    21300148: PC Computer - Braid - Monstar_74
+    21300150: PC Computer - Braid - Monstar_75
+    21300152: PC Computer - Braid - Monstar_76
+    21300154: PC Computer - Braid - Monstar_77
+    21300156: PC Computer - Braid - Monstar_78
+    21300158: PC Computer - Braid - Monstar_79
+    21300160: PC Computer - Braid - Monstar_80
+    21300162: PC Computer - Braid - Monstar_81
+    21300164: PC Computer - Braid - Monstar_82
+    21300166: PC Computer - Braid - Monstar_83
+    21300168: PC Computer - Braid - Monstar_84
+    21300170: PC Computer - Braid - Monstar_85
+    21300172: PC Computer - Braid - Monstar_86
+    21300174: PC Computer - Braid - Monstar_87
+    21300176: PC Computer - Braid - Monstar_88
+    21300178: PC Computer - Braid - Monstar_89
+    21300180: PC Computer - Braid - Monstar_90
+    21300182: PC Computer - Braid - Monstar_91
+    21300184: PC Computer - Braid - Monstar_92
+    21300186: PC Computer - Braid - Monstar_93
+    21300188: PC Computer - Braid - Monstar_94
+    21300190: PC Computer - Braid - Monstar_95
+    21300192: PC Computer - Braid - Monstar_96
+    21300194: PC Computer - Braid - Monstar_97
+    21300196: PC Computer - Braid - Monstar_98
+    21300198: PC Computer - Braid - Monstar_99
+    21300200: PC Computer - Braid - Monstar_100
+    21300202: PC Computer - Braid - Monstar_101
+    21300204: PC Computer - Braid - Monstar_102
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 475
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 475
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 474
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 475
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 474
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 476
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 474
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 572
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_9
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 572
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_10
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 572
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_11
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 572
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 572
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_13
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 572
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_14
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 572
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_15
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 549
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_16
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 549
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 549
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_18
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 549
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_19
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 526
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_20
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 526
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 523
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_22
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 526
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_23
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 526
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 526
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_25
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 522
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_26
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 526
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_27
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 526
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_28
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 526
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_29
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 526
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 526
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_31
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 526
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_32
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 526
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_33
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 526
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 337
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 335
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 337
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 335
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_40
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 338
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_41
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 336
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_42
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 398
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_43
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 396
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_44
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 396
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_45
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 398
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_46
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 398
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_47
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 398
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_48
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 395
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_49
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 345
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_50
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 380
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_51
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 377
+        width: 122
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_52
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 380
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_53
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 380
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_54
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 380
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_55
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 364
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_56
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 364
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_57
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 364
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_58
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 364
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_59
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_60
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 364
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_61
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 364
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_62
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 364
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_63
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 362
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_64
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_65
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 364
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_66
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 364
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_67
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 364
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_68
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 364
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_69
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 364
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_70
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 345
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_71
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_72
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_73
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 348
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_74
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_75
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 345
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_76
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_77
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_78
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_79
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 348
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_80
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_81
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 348
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_82
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 348
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_83
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 186
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 183
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_85
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 296
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 180
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_87
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 183
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_88
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 182
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_89
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 181
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_90
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 180
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 180
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 182
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 19
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_98
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 23
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_99
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 22
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_100
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 22
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_101
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 22
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Braid - Monstar_102
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 19
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
